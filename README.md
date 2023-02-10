@@ -17,9 +17,13 @@ I'm Cikutto</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikutto&theme=nightowl&show_icons=true)
 
-<img align="right" alt="img" width="50" src="https://media3.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=790b761119fea3fa1b557a4e7ffc34a8c8f1fb1ae7d6d00c&rid=giphy.gif&ct=s">
-<img align="left" alt="img" width="50" src="https://media4.giphy.com/media/LJMPfwHLEljwY/giphy.gif?cid=790b7611dbde846be13056df4889d2d135510c89bbba418f&rid=giphy.gif&ct=s">
-&nbsp;
+<img align="left" alt="img" width="75" src="https://media0.giphy.com/media/z8OcWLLk4SrpS/giphy.gif?cid=ecf05e47xi3g3kzdj66ynb4owva7ia8aiikhkozeer2pdk9v&rid=giphy.gif&ct=s">
+<img align="right" alt="img" width="75" src="https://media4.giphy.com/media/LJMPfwHLEljwY/giphy.gif?cid=790b7611dbde846be13056df4889d2d135510c89bbba418f&rid=giphy.gif&ct=s">
 
-## Look the snake is eating my contributions...
+
 ![snake gif](https://github.com/cikutto/cikutto/blob/output/github-contribution-grid-snake.gif)
+
+<h1 align="center">
+  
+<img align="centre" alt="img" width="25" src="https://media2.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=790b7611a88e629281c6f3e32322ce803a99f72bb8e05ad3&rid=giphy.gif&ct=s">
+  </h1>
