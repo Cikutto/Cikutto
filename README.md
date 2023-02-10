@@ -4,7 +4,7 @@
 
 I'm Cikutto</h1>
 
-<img align="right" alt="img" width="500" height="500" src="https://media.tenor.com/DtyJY3TmXwYAAAAi/animated-anime.gif">
+<img align="right" alt="img" width="400" height="400" src="https://media.tenor.com/DtyJY3TmXwYAAAAi/animated-anime.gif">
 <img align="" alt="img" width="75" src="https://uploads.scratch.mit.edu/get_image/gallery/162098_170x100.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cikutto&label=Profile%20views&color=0e75b6&style=flat" alt="cikutto" /> </p>
