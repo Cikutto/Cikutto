@@ -19,3 +19,7 @@ I'm Cikutto</h1>
 
 <img align="right" alt="img" width="50" src="https://media3.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=790b761119fea3fa1b557a4e7ffc34a8c8f1fb1ae7d6d00c&rid=giphy.gif&ct=s">
 <img align="left" alt="img" width="50" src="https://media4.giphy.com/media/LJMPfwHLEljwY/giphy.gif?cid=790b7611dbde846be13056df4889d2d135510c89bbba418f&rid=giphy.gif&ct=s">
+&nbsp;
+
+## Look the snake is eating my contributions...
+![snake gif](https://github.com/cikutto/cikutto/blob/output/github-contribution-grid-snake.gif)
