@@ -9,9 +9,10 @@ I'm Cikutto</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cikutto&label=Profile%20views&color=0e75b6&style=flat" alt="cikutto" /> </p>
 
-- 💎 I’m currently working on **[au-ethereum-bootcamp](https://github.com/Cikutto/au-ethereum-bootcamp)**
-- 🌱 I’m currently learning **Solidity, Cairo, Rust**
-- 🤝 I’m looking for help with **Cairo & Rust**
+- 🌱 I’m currently learning: 
+    - **Solidity** 
+    - **Cairo**
+- 🤝 I’m looking for help with **Cairo**
 - ⚡ Im interested in **Web3 Hackathons**
 - 🍵 I’m looking to contribute to **...loading**
 
