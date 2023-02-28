@@ -13,7 +13,7 @@ I'm Cikutto</h1>
     - **Solidity** 
     - **Cairo**
 - 🤝 I’m looking for help with **Cairo**
-- ⚡ Im interested in **Web3 Hackathons**
+- ⚡ Im interested in **Zero Knowledge Proofs**
 - 🍵 I’m looking to contribute to **...loading**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikutto&theme=nightowl&show_icons=true)
